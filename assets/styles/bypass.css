@@ -1,0 +1,136 @@
+body{
+	padding-top:50px;
+	color:#354859;
+	font-family: 'Open Sans', sans-serif;
+}
+.container{
+	-webkit-transition: opacity 2s; /* Safari */
+    transition: opacity 2s;
+}
+h1{
+	font-weight:300;
+	font-size:2.5rem;
+}
+h2{
+	font-weight:300;
+	font-size:1.8rem;
+	margin-bottom:15px;
+}
+h3{
+	text-transform:uppercase;
+	font-weight:800;
+	font-size:1.2rem;
+	letter-spacing:1px;
+}
+p{
+	font-size:1.18rem;
+	margin-bottom:20px;
+}
+.navbar-brand img{
+	width:100px;
+}
+.aa-blue{
+	color:#0078D2;
+}
+.aa-red{
+	color:#FE424D;
+}
+.aa-green{
+	color:#1DCD5A;
+}
+.jumbotron{
+	margin-bottom:0;
+}
+.boarded{
+	padding:100px 0 10px 0;
+	background-image:url('../images/aus-skyline.jpg');
+	background-color:#000000;
+	background-size: 150% auto;
+	background-position:center top;
+	color:#FFFFFF;
+	margin-bottom:0;
+}
+.boarded h1{
+	color:#1DCD5A;
+}
+.not-boarded h1{
+	color:#0078d2;
+}
+.error h1{
+	color:#FE424D;
+}
+.card{
+	margin-top:20px;
+}
+
+.card .flight-number{
+	font-weight: bold;
+}
+.card .flight-number .glyphicon-plane{
+	-webkit-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+.card .gate{
+	font-weight:800;
+	font-size:1.8rem;
+}
+.card .board-time{
+	font-weight:300;
+	font-size:1.8rem;
+}
+.card .panel-footer{
+	background-color:#0078d2;
+	color:#FFFFFF;
+}
+.card .city{
+	font-size:3rem;
+	font-style: normal;
+	font-weight:300;
+	display:block;
+}
+.card .time{
+	font-size:1.8rem;
+}
+.card .panel-title{
+    font-size: 1.5rem;
+    font-weight:300;
+}
+.card .arrow{
+    padding: 12px 0 0;
+    color:#0078d2;
+    font-size:2rem;
+}
+
+.site-wrapper {
+  display: table;
+  width: 100%;
+  height: 100%; /* For at least Firefox */
+  min-height: 100%;
+  color:#FFFFFF;
+}
+.site-wrapper-inner {
+  display: table-cell;
+  vertical-align: top;
+}
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* Padding for spacing */
+.inner {
+  padding:180px 30px 30px;
+}
+.btn-ghost{
+	color: #FFFFFF;
+    background-color: none;
+    border:solid 2px #FFFFFF;
+    text-transform:uppercase;
+    font-size:1.2rem;
+    letter-spacing: 2px;
+    font-weight:800;
+}
+body.splash {
+  height: 100%;
+  background: url('../images/splash-blue.jpg') center 45% #0078d2;
+}
