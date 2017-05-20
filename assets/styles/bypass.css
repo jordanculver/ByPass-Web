@@ -45,7 +45,7 @@ p{
 	padding:100px 0 10px 0;
 	background-image:url('../img/aus-skyline.jpg');
 	background-color:#000000;
-	background-size: auto 100%;
+	background-size: 150% auto;
 	background-position:center top;
 	color:#FFFFFF;
 	margin-bottom:0;
@@ -133,4 +133,5 @@ p{
 body.splash {
   height: 100%;
   background: url('../img/splash-blue.jpg') center 45% #0078d2;
+  background-size:auto 200%;
 }
