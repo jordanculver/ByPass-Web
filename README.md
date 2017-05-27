@@ -15,7 +15,7 @@ Installation
 
 Clone repository:
 
-    git clone https://github.com/lsm/micromono
+    git clone https://github.com/jordanculver/ByPass-Web.git
 
 Go into cloned folder and install node dependencies
 
