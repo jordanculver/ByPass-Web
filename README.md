@@ -6,9 +6,9 @@ HackWars 2017 team FN-1337's simple web service for hosting static html pages fo
 Table of Contents
 =================
 * [Installation](#installation)
-* [Run Service Locally](#RunServiceLocally)
-* [Run Service on Bluemix](#RunServiceOnBluemix)
-* [Static pages](#staticpages)
+* [Run Service Locally](#run-service-locally)
+* [Run Service on Bluemix](#run-service-on-bluemix)
+* [Static pages](#static-pages)
 
 Installation
 ============
